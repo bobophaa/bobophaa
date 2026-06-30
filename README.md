@@ -84,18 +84,6 @@ Clinic Management System with:
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobophaa\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bobophaa\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobophaa\&layout=compact\&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🎯 2026 Goals
