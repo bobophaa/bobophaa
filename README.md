@@ -1,114 +1,58 @@
-# Hi, I'm Hing Chanbopha (Bopha) 👋
+# Hi, I'm Heng Chanbopha (Bopha) 👋
 
-<div align="center">
+### Junior Full-Stack Developer | Computer Science Student at RUPP
 
-### 💻 Full-Stack Developer in Training | Computer Science Student
+I'm a Computer Science student at the Royal University of Phnom Penh who enjoys building practical web applications, developing backend APIs, designing user-friendly interfaces, and solving real-world problems through code.
 
-Passionate about building modern web applications, creating user-friendly experiences, and continuously learning new technologies.
+I'm currently seeking a **full-time Junior Full-Stack Developer opportunity** where I can contribute to real projects and grow as a software developer.
 
-</div>
+## 🛠️ Technical Skills
 
----
+**Frontend**
+- HTML5, CSS3, JavaScript
+- React.js, Vue.js
+- Bootstrap, Tailwind CSS
 
-## 🚀 About Me
+**Backend**
+- PHP, Laravel
+- Node.js, Express.js
+- REST API development and integration
 
-🎓 Computer Science student at **Royal University of Phnom Penh (RUPP)** 
-
-💡 Interested in **Full-Stack Development**, **UI/UX Design**
-
-🌱 Currently learning:
-
-* React & Modern JavaScript
-* API Integration
-* Backend Development
-* Database Design
-* DevOps Fundamentals
-
-☕ Fun Fact: I enjoy solving coding challenges late at night with a good cup of coffee.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Design & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel" />
-</p>
-
----
+**Database & Tools**
+- MySQL, SQL
+- Git, GitHub, VS Code, Postman, Figma
 
 ## 🚀 Featured Projects
 
-### 🍽️ Pka Romdoul
+### ClinicSync — Clinic Management System
+A web application for managing clinic workflows and role-based access for administrators, doctors, patients, and receptionists.
 
-Modern restaurant web application featuring menu management, reservations, and responsive design.
+**Tech:** React, Vite, Tailwind CSS, Laravel, Sanctum, MySQL
 
-### 👗 Starie
+[Live Demo](https://clinic-frontend-lake.vercel.app/)
 
-Responsive fashion and clothing website with modern UI and mobile-friendly experience.
+### StayFinder — Room Rental Platform
+A room-rental platform designed to help users explore rental listings and support rental management workflows.
 
-### ✨ GlowSkin
+**Tech:** Vue 3, Vite, Bootstrap, Pinia, Axios
 
-Minimalist skincare e-commerce user interface focused on clean design and usability.
+[Live Demo](https://stay-finder-project-kappa.vercel.app/)
 
-### 🏥 ClinicSync
+### Modern Factory Backend
+A backend project focused on REST APIs, authentication, and role-based access control.
 
-Clinic Management System with:
+**Tech:** Node.js, Express.js, MySQL, JWT
 
-* Patient Management
-* Appointment Scheduling
-* Medical Records
-* Dashboard Analytics
-* Responsive Admin Interface
+> Add the repository link here after confirming it is public and accessible.
 
-  
+## 🎯 Currently Improving
+- Backend architecture and API security
+- Database design and SQL
+- Testing, debugging, and deployment
+- Writing clean, maintainable code
 
----
+## 🔗 Connect With Me
 
----
-
-## 🎯 2026 Goals
-
-* Build production-ready full-stack applications
-* Master React ecosystem
-* Learn Node.js & Advanced Backend Development
-* Improve System Design knowledge
-* Contribute to Open Source Projects
-* Secure a Full-Stack Developer Internship
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[hingchanbopha4@gmail.com](mailto:hingchanbopha4@gmail.com)**
-
-💼 LinkedIn: **Hing Chanbopha**
-
-📱 Phone: **+855 77 454 813**
-
----
-
-<div align="center">
-
-### ⭐ "Turning ideas into reality through code."
-
-</div>
+- **Portfolio:** https://bopha-s-portfolio.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/hing-chanbopha-0a527a38b/
+- **GitHub:** https://github.com/bobophaa
