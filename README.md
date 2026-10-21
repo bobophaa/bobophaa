@@ -1,4 +1,4 @@
-# Hi, I'm Heng Chanbopha (Bopha) 👋
+# Hi, I'm Hing Chanbopha (Bopha) 👋
 
 ### Junior Full-Stack Developer | Computer Science Student at RUPP
 
